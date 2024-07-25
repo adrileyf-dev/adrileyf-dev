@@ -14,7 +14,7 @@ minha pró-atividade e habilidades interpessoais sólidas, permitindo-me abraça
 
 ## Conecte-se comigo:
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:adrileyf@gmail.com)
+[![E-mail]adrileyf@gmail.com (https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:adrileyf@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/adriley-francisco-1bb06444/)
 
 ## Habilidades:
