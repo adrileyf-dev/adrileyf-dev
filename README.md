@@ -27,5 +27,4 @@ minha pró-atividade e habilidades interpessoais sólidas, permitindo-me abraça
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Zookeeper](https://img.shields.io/badge/Zookeeper-FFCA28?style=for-the-badge&logo=apache-zookeeper&logoColor=black)
-https://camo.githubusercontent.com/a45d50cab968c265bae7aee7b046255ff139e857c2001ac048b9235603c64f12/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737072696e672e737667
+![Zookeeper](https://img.shields.io/badge/Zookeeper-FFCA28?style=for-the-badge&logo=apache-zookeeper&logoColor=black)  
