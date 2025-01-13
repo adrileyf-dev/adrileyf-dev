@@ -28,3 +28,4 @@ minha pró-atividade e habilidades interpessoais sólidas, permitindo-me abraça
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Zookeeper](https://img.shields.io/badge/Zookeeper-FFCA28?style=for-the-badge&logo=apache-zookeeper&logoColor=black)   
+![NodeJS](https://img.shields.io/badge/NodeJS-FFCA28?style=for-the-badge&logo=apache-zookeeper&logoColor=black)   
